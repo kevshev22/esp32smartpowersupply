@@ -14,8 +14,8 @@
 void setDigipot(uint8_t pot, uint8_t value);
 
 // input of network credentials
-const char* ssid = "Freeduhweefee";
-const char* password = "kevinlikesbanana";
+const char* ssid = "WIFINAME"; // Username
+const char* password = "WIFIPASSWORD"; // Password
 
 // define LED pins
 #define LED_RED       2        // LED_RED
